@@ -81,8 +81,4 @@ npm run dev
 | **Retailer** | Rajesh Gupta | `rajesh@nagpurmart.com` | `password123` | Itwari, Nagpur |
 | **Admin** | APMC Officer | `admin@apmc-nagpur.gov.in` | `password123` | Kalamna Mandi, Nagpur |
 
----
 
-## 📚 Interview Preparation
-
-Check out [`INTERVIEW_PREP.md`](./INTERVIEW_PREP.md) for 15+ deep-dive technical questions, database schema explanations, and architecture walkthroughs designed for Python Developer interviews.
